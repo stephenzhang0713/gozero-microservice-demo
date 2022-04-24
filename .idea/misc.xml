@@ -3,4 +3,22 @@
   <component name="ThriftCompiler">
     <compilers />
   </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="55" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.env" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="2485" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/docker-compose.yml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="239" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/code/gozero-mall/go.mod" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
 </project>
